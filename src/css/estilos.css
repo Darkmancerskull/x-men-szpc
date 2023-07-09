@@ -3,7 +3,6 @@ body {
     background-color: #000000;
     color: #ffffff
 }
-
 body::before{
     content: "";
     background-image: url(../imagens/bg-desktop.jpg);
